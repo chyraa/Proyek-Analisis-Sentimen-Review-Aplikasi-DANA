@@ -1,4 +1,4 @@
-# Proyek-Analisis-Sentimen-Review-Aplikasi-DANA
+# Sentiment Analysis on DANA App Reviews
 Analisis sentimen ulasan pengguna aplikasi DANA dari Google Play Store menggunakan NLP. Proyek mencakup preprocessing teks, eksplorasi data, dan klasifikasi sentimen (positif, netral, negatif) dengan model machine learning.
 ## 🔍 Fitur Utama
 - Web scraping ulasan dari Google Play Store
